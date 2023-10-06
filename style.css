@@ -2,6 +2,9 @@ body{
   background:linear-gradient(to right,black,gray)
   
 }
+body{
+  flex-wrap: wrap;
+}
 .Header{
   display:flex;
   flex-direction: row;
