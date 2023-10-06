@@ -1,0 +1,85 @@
+body{
+  background:linear-gradient(to right,black,gray)
+  
+}
+.Header{
+  display:flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 50px;
+
+}
+.Head{
+  margin-bottom: 20px;
+}
+.title{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  color: white;
+
+}
+
+
+.body{
+  display:flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 20px;
+  margin-top: 100px;
+  
+
+}
+.bodyB{
+  padding: 20px;
+  text-decoration: none;
+  color: white;
+  font-size: 50px;
+}
+
+.bodyC{
+  padding: 20px;
+  text-decoration: none;
+  color: white;
+  font-size: 50px;
+}
+
+.bodyA{
+  padding: 20px;
+  text-decoration: none;
+  color: white;
+  font-size: 50px;
+}
+.bodyD{
+  padding: 20px;
+  text-decoration: none;
+  color: white;
+  font-size: 50px;
+  
+}
+.logo{
+  height: 100px;
+  width: 100px;
+  border-style:solid;
+  border-color: white;
+  border-radius: 50px;
+}
+.end{
+  color: whitesmoke;
+  margin-top: 150px;
+  display: flex;
+  justify-content: center;
+}
+.bar{
+  color:white;
+  display:flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  margin-right: 30px;
+  margin-top: 30px;
+}
+.musicicon{
+  color: white;
+  font-size: 40px;
+
+}

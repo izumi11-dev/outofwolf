@@ -1,0 +1,92 @@
+body{
+  background:linear-gradient(to left, black,gray);
+  
+}
+.heading2{
+  color: black ;
+  margin:0 auto;
+}
+.header2{
+  background-color:#FAFAFA;
+  padding: 10px;
+  position:sticky ;
+  top: 0;
+  opacity:0.9;
+text-align: center;
+}
+.video1{
+  height: 400px;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+margin-top: 50px;
+padding:10px;
+
+}
+.videoimg1{
+  height:400px;
+width: 370px;
+border:3px solid white;
+display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.video2{
+  height: 400px;
+  
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+margin-top: 50px;
+padding:10px;
+}
+.videoimg2{
+  height:400px;
+  width: 370px;
+border:3px solid white;
+}
+
+.video3{
+  height: 400px;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+margin-top: 50px;
+padding:10px;
+}
+.videoimg3{
+  height:400px;
+  width: 370px;
+border:3px solid white;
+}
+.video4{
+  height: 400px;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+margin-top: 50px;
+padding:10px;
+}
+.videoimg4{
+  height:400px;
+  width: 370px;
+border:3px solid white;
+}
+.video5{
+  height: 400px;
+  
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+margin-top: 50px;
+padding:10px;
+}
+.videoimg5{
+  height:400px;
+  width: 370px;
+border:3px solid white;
+}
+
