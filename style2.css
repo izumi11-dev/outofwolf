@@ -2,6 +2,9 @@ body{
   background:linear-gradient(to left, black,gray);
   
 }
+body{
+  flex-wrap: wrap;
+}
 .heading2{
   color: black ;
   margin:0 auto;
